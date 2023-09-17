@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import copy
 from collections import namedtuple
-# from trackbar import createTrackBars, TrackBar
 
 # webcam and display window setting
 cap = cv2.VideoCapture(1)
