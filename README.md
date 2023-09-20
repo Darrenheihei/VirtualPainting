@@ -1,6 +1,4 @@
 ## Virtual Painting
-
----
 ### Introduction
 This is a mini project for learning computer vision. The learning resources are provided in https://www.computervision.zone/courses/learn-opencv-in-3-hours/.
 
